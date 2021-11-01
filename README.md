@@ -10,18 +10,18 @@ Implement and test the decision tree learning algorithm.
 2. Variance impurity heuristic described below.
 Let K denote the number of examples in the training set. Let K0 denote the number of training examples that have class = 0 and K1 denote the number of training examples that have class = 1. The variance impurity of the training set S is defined as:
 
-![pic1](/images/pic1.png)
+![pic1](/images/pic1.JPG)
 
 Notice that the impurity is 0 when the data is pure. The gain for this impurity is defined as usual.
 
-![pic2](/images/pic2.png)
+![pic2](/images/pic2.JPG)
 
 where X is an attribute, Sx denotes the set of training examples that have X = x and Pr(x) is the fraction of the training examples that have X = x (i.e., the number of training examples that have X = x divided by the number of training examples in S).
 
 
 Implemented a function to print the decision tree to standard output. We will use the following format.
 
-![pic3](/images/pic3.png)
+![pic3](/images/pic3.JPG)
 
 According to this tree, if wesley = 0 and honor = 0 and barclay = 0, then the class value of the corresponding instance should be 1. In other words, the value appearing before a colon is an attribute value, and the value appearing after a colon is a class value.
 
