@@ -36,4 +36,4 @@ c. Parameters for the script would be asked now. Please provide in below format 
    Ex:- ```
    D:\data_TEMP\\training_set.csv D:\data_TEMP\\validation_set.csv D:\data_TEMP\\test_set.csv yes h1
    ```
-d. That''s it! Output would show the accuracies for training, validation, test data. Along with decision tree based on input provided.
+d. Thats it! Output would show the accuracies for training, validation, test data. Along with decision tree based on input provided.
