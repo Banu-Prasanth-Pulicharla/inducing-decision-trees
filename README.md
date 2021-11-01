@@ -26,8 +26,8 @@ Implemented a function to print the decision tree to standard output. We will us
 According to this tree, if wesley = 0 and honor = 0 and barclay = 0, then the class value of the corresponding instance should be 1. In other words, the value appearing before a colon is an attribute value, and the value appearing after a colon is a class value.
 
 ## How to Run?
-a. Place the file `DecisionTree.py` in a directory.
-b. use below command to run the script
+a. Place the file `DecisionTree.py` in a directory.  
+b. use below command to run the script  
    ```
    python DecisionTree.py
    ```
