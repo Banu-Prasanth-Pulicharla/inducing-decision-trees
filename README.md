@@ -32,8 +32,9 @@ b. use below command to run the script
    python DecisionTree.py
    ```
 c. Parameters for the script would be asked now. Please provide in below format -   
-   *<Training dataset Path> <Validation dataset Path> <Test dataset Path> <Print Tree?Yes/No> <Heuristic?H1/H2>*
-   Ex:- ```
+   <Training dataset Path> <Validation dataset Path> <Test dataset Path> <Print Tree?Yes/No> <Heuristic?H1/H2>  
+   Ex:-  
+   ```
    D:\data_TEMP\\training_set.csv D:\data_TEMP\\validation_set.csv D:\data_TEMP\\test_set.csv yes h1
    ```
 d. Thats it! Output would show the accuracies for training, validation, test data. Along with decision tree based on input provided.
