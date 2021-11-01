@@ -27,7 +27,7 @@ According to this tree, if wesley = 0 and honor = 0 and barclay = 0, then the cl
 
 ## How to Run?
 a. Place the file `DecisionTree.py` in a directory.  
-b. use below command to run the script  
+b. Use below command to run the script  
    ```
    python DecisionTree.py
    ```
@@ -39,4 +39,4 @@ c. Parameters for the script would be asked now. Please provide in below format 
    ```
    D:\data_TEMP\\training_set.csv D:\data_TEMP\\validation_set.csv D:\data_TEMP\\test_set.csv yes h1
    ```
-d. Thats it! Output would show the accuracies for training, validation, test data. Along with decision tree based on input provided.
+d. That's it! Output would show the accuracies for training, validation, test data. Along with decision tree based on input provided.
